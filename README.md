@@ -9,3 +9,4 @@ The game is played using the output console for display and a JFrame with button
 
 ## Screenshot
 
+![screenshot](https://user-images.githubusercontent.com/35910546/62540742-918bc580-b858-11e9-8499-70af3ec3926d.PNG)
