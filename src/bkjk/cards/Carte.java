@@ -23,7 +23,7 @@ public class Carte {
         img = nom+"_of_"+couleur;
     }
 
-    
+    @Override
     public String toString(){
         return nom+" of "+couleur+", ";
     }
